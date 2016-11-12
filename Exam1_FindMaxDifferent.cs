@@ -32,7 +32,7 @@ namespace Exam
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(FindMaxDifferent("poasdafaskfangausdafagasddddddddddhdiaisda"));
+            Console.WriteLine(FindMaxDifferent("123asda4123123123"));
             Console.ReadLine();
         }
     }
